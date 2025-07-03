@@ -1,0 +1,23 @@
+{
+  "name": "toolboxie",
+  "version": "1.0.0",
+  "description": "A simple toolbox",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LHGS-github/Toolboxie.git"
+  },
+  "author": "lhgser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LHGS-github/Toolboxie/issues"
+  },
+  "homepage": "https://github.com/LHGS-github/Toolboxie#readme",
+  "devDependencies": {
+    "electron": "^37.2.0"
+  }
+}
